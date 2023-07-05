@@ -1,0 +1,41 @@
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\appsettings.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\box13(Cs basics).exe
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\box13(Cs basics).deps.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\box13(Cs basics).runtimeconfig.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\box13(Cs basics).dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\box13(Cs basics).pdb
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).csproj.AssemblyReference.cache
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).AssemblyInfoInputs.cache
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).AssemblyInfo.cs
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).csproj.CoreCompileInputs.cache
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets\msbuild.box13(Cs basics).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets\msbuild.build.box13(Cs basics).props
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.box13(Cs basics).props
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.box13(Cs basics).props
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\scopedcss\bundle\box13(Cs basics).styles.css
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).csproj.CopyComplete
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\refint\box13(Cs basics).dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).pdb
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\box13(Cs basics).genruntimeconfig.cache
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\obj\Debug\net7.0\ref\box13(Cs basics).dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\microsoft.identitymodel.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Windows Server\Desktop\TEST ENV\box13(Cs basics)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
